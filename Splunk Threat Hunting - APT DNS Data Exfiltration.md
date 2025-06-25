@@ -2,8 +2,6 @@
 
 # Splunk Threat Hunting - APT DNS Data Exfiltration
 
-![Shae Haseldine, #OPEN_TO_WORK](https://media.licdn.com/dms/image/v2/D5635AQH_FHLn-cQzAA/profile-framedphoto-shrink_100_100/B56Zb9FQLuHcAk-/0/1748002735407?e=1751457600&v=beta&t=0eW_Cl3pEnXK7K2X7tYTN4Dn-DHWdhIbzCWk1Ieap3E)
-
 ## Shae Haseldine
 
 BTL1 Certified | Student at CyberLynk
